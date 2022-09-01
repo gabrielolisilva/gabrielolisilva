@@ -2,7 +2,6 @@
 
 - 🔭 Meu objetivo é trabalhar como desenvolvedor front-end
 - 🌱 Estudando HTML, CSS e Javascript
-- 📫 Contate-me no email: gabrielsilva2799@hotmail.com
 - 😄 Pronouns: ele/dele
 
 <div align="center">
