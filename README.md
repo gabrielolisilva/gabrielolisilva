@@ -1,8 +1,10 @@
-### Oi! Eu sou o Gabriel 👋
+### Hi! I'm Gabriel, Front-end developer! 👋
 
-- 🔭 Meu objetivo é trabalhar como desenvolvedor front-end
-- 🌱 Estudando HTML, CSS e Javascript
-- 😄 Pronouns: ele/dele
+- 🔭 Currenty studying to improve my skills
+- 🌱 Languages: HTML5, CSS3, Javascript, TypeScript, React
+- 🔨 Tools: Bootstrap and Tailwind CSS 
+- 📊 Database: MongoDB and MySQL
+- 😄 Pronouns: He/Him
 
 <div align="center">
   <a href="https://github.com/gabrielolisilva?tab=repositories">
