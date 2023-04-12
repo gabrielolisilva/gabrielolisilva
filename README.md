@@ -2,7 +2,7 @@
 
 - 🔭 Currenty studying to improve my skills
 - 🌱 Languages: HTML5, CSS3, Javascript, TypeScript, React
-- 🔨 Tools: Bootstrap and Tailwind CSS 
+- 🔨 Tools: Bootstrap, Tailwind CSS and MaterialUI
 - 📊 Database: MongoDB and MySQL
 - 😄 Pronouns: He/Him
 
