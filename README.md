@@ -1,9 +1,8 @@
 ### Hi! I'm Gabriel, Front-end developer! 👋
 
-- 🔭 Currenty studying to improve my skills
-- 🌱 Languages: HTML5, CSS3, Javascript, TypeScript, React
+- 🌱 Languages: HTML5, CSS3, Javascript, TypeScript, PHP, Java, React
 - 🔨 Tools: Bootstrap, Tailwind CSS and MaterialUI
-- 📊 Database: MongoDB and MySQL
+- 📊 Database: SQL (MySQL, SQL Server, PostgreSQL) / NoSQL (MongoDB)
 - 😄 Pronouns: He/Him
 
 <div align="center">
@@ -13,11 +12,12 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Gabriel-Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Logo HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Logo CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Logo JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Logo Typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Logo PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Logo React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
 ##
